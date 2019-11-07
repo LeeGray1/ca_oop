@@ -41,22 +41,16 @@ namespace ca
 
             Console.WriteLine($"Name: {st1.Name}\nDate of birth: {st1.Dateofbirth}");
             Console.WriteLine($"\n{s1.SUbjectName} {s1.Lecturer} {s1.Year}");
-            Console.WriteLine($"\n");
             Console.WriteLine($"\n{s2.SUbjectName} {s2.Lecturer} {s2.Year}");
-            Console.WriteLine($"\n");
             Console.WriteLine($"\n{s3.SUbjectName} {s3.Lecturer} {s3.Year}");
-            Console.WriteLine($"\n");
             Console.WriteLine($"\n{s4.SUbjectName} {s4.Lecturer} {s4.Year}");
             Console.WriteLine("\n");
 
 
             Console.WriteLine($"Name: {st2.Name}\nDate of birth: {st2.Dateofbirth}");
             Console.WriteLine($"\n{s1.SUbjectName} {s1.Lecturer} {s1.Year}");
-            Console.WriteLine($"\n");
             Console.WriteLine($"\n{s2.SUbjectName} {s2.Lecturer} {s2.Year}");
-            Console.WriteLine($"\n");
             Console.WriteLine($"\n{s3.SUbjectName} {s3.Lecturer} {s3.Year}");
-            Console.WriteLine($"\n");
             Console.WriteLine($"\n{s4.SUbjectName} {s4.Lecturer} {s4.Year}");
             Console.WriteLine("\n");
         }
